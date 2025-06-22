@@ -1,1 +1,1 @@
-# AppPrivacyPolicy
+#PrivacyPolicy
